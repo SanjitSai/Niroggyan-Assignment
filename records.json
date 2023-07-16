@@ -1,0 +1,44 @@
+[
+    
+    {
+      "name": "Joyneel Acharya",
+      "dob": "16 May 1991",
+      "date": "30 Nov 2020",
+      "medName": "ibuprofen 600mg tab",
+      "directions": "1 tablet by mouth 4 times a day with food every 4 hours",
+      "appearance" : "https://ik.imagekit.io/lomvfgve8/Screenshot_2023-07-15_203711.png",
+      "reason": "For treatment of lower back pain.",
+      "sideEffects": ["Headache", "Dizziness"],
+      "getHelp": "Experiencing chest pain, shortness of breath, and rapid weight gain.",
+      "times": ["8:00AM", "12:00PM", "4:00PM", "8:00PM"],
+      "timeSlot": "https://ik.imagekit.io/lomvfgve8/Screenshot_2023-07-16_160235.png?updatedAt=1689503713421",
+      "item" : 1
+    },
+    {
+      "name": "Joyneel Acharya",
+      "dob": "16 May 1991",
+      "date": "30 Nov 2020",
+      "medName": "insulin, glargine, human 100 unt/ml inj",
+      "directions": "1 injection at bedtime Inject 10 ml vial under the skin as directed for 28 days inject 25 units under the skin at bedtime do not mix with other insulins/discard open vials after 28 days.",
+      "appearance" : "https://ik.imagekit.io/lomvfgve8/Screenshot_2023-07-16_155812.png",
+      "reason": "Reduce blood pressure.",
+      "sideEffects": ["Headache", "Fatigue", "Nausea"],
+      "getHelp": "Experiencing itching skin, wheezing, and fast heart rate.",
+      "timeSlot" : "https://ik.imagekit.io/lomvfgve8/Screenshot_2023-07-16_160410.png?updatedAt=1689503781047",
+      "item" : 2
+    },
+    {
+      "name": "Joyneel Acharya",
+      "dob": "16 May 1991",
+      "date": "30 Nov 2020",
+      "medName": "terazosin hcl 2mg capsule",
+      "directions": "3 capsules before bed",
+      "appearance" : "https://ik.imagekit.io/lomvfgve8/Screenshot_2023-07-16_155916.png",
+      "reason": "For treatment of symptoms of an enlarged prostate.",
+      "sideEffects": ["Dizziness", "Headache", "Constipation", "Loss of appetite", "Fatigue"],
+      "times": ["Bedtime"],
+      "timeSlot": "https://ik.imagekit.io/lomvfgve8/Screenshot_2023-07-16_160429.png",
+      "item" : 3
+    }
+  ]
+  
