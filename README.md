@@ -15,3 +15,12 @@ Tested the GET API by using POSTMAN API
 React code is written in App.js and the required CSS is written in App.css. The records needed for the code are stored in Records.json. The same JSON file is used
 at the backend also for GET API.
 
+## Commands to start the code 
+### Front end
+cd my-app 
+cd src 
+npm start
+### Backend
+node server.js
+
+
