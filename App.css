@@ -1,0 +1,169 @@
+
+
+.app {
+  border-radius: 2px;
+  background-color: #F5F5F5;
+  background-size: cover;
+  height: 100%;
+  padding-bottom: 20px;
+}
+.main-heading{
+  font-family: "Arial";
+}
+*{
+  
+  margin-left: 5px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  font-family: "Roboto";
+  font-weight: 300;
+}
+.key-value-pairs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2px;
+  margin-left: 100px;
+}
+
+.key-value-pair {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.key {
+  font-weight:lighter;
+  margin-left: 150px;
+}
+
+.value {
+  margin-left: 165px;
+  font-size: 20px;
+  font-weight:400;
+}
+
+.style{
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px dotted black;
+  margin-top: 5px;
+}
+
+.med-name{
+  color: #585a5c;
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.appearance{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  word-wrap: break-word;
+  white-space: normal;
+}
+.appearance-2{
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.med-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.appearance-heading{
+  color: #8a8e92;
+  font-family: 'Arial';
+  margin-bottom:1px;
+  font-size: 14px;
+}
+
+.description{
+  color: #282c34;
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.description-help{
+  color: #282c34;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 0px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.instyle{
+  width: 70%;
+  border-bottom: 1px dotted black;
+}
+.upstyle{
+  width: 70%;
+  border-right: 1px dotted black;
+  margin-left: 10px;
+  border-left: 1px dotted black;
+}
+.list{
+  margin-top: 0px;
+  margin-left: 0px;
+  list-style-type: none;
+}
+.list-item{
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.image{
+  width: 350px;
+  height: 150px;
+}
+.imageSlot{
+  width: 450px;
+  height: 150px;
+}
+.side-effects{
+  margin-left: 0px;
+}
+.side-effects-section {
+  display: flex;
+  flex-direction: column;
+}
+.appearance-3{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+
+
+
+.footer-text {
+  font-weight: bold;
+}
